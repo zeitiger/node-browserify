@@ -43,7 +43,7 @@
     "stream-http": "^1.2.0",
     "https-browserify": "~0.0.0",
     "inherits": "~2.0.1",
-    "insert-module-globals": "^6.4.1",
+    "insert-module-globals": "zeitiger/insert-module-globals",
     "isarray": "0.0.1",
     "labeled-stream-splicer": "^1.0.0",
     "module-deps": "^3.7.11",
